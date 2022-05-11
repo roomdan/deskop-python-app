@@ -1,0 +1,13 @@
+# Para iniciar la app y obtener resultados ejecute
+# python app.py
+
+# IMPORTANTE
+
+# para que la app funcione debe instalar tabulate libreria, y matplatlib libreria
+# commands: pip install tabulate
+# commands: python -m pip install -U pip
+# commands python -m pip install -U matplotlib
+
+ipython
+tabulate
+matplotlib
